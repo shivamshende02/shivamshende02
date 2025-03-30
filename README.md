@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+<p align="center">
+  <img src="https://github.com/shivamshende02/shivamshende02/blob/main/Shivam%20LinkedIn%20Banner.png" alt="Shivam's GitHub Banner" width="100%">
+</p>
+
+
 <!--
 **shivamshende02/shivamshende02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
