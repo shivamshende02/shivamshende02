@@ -1,11 +1,11 @@
-"It is not the strongest of the species that survive, nor the most intelligent, but the one most responsive to change."  
-— Charles Darwin
+
 
 <p align="center">
   <img src="https://github.com/shivamshende02/shivamshende02/blob/main/Shivam%20github%20Banner.png" alt="Shivam's GitHub Banner" width="100%">
 </p>
 
-
+"It is not the strongest of the species that survive, nor the most intelligent, but the one most responsive to change."  
+— Charles Darwin
 
 <!--
 **shivamshende02/shivamshende02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
