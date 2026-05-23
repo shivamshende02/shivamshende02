@@ -4,20 +4,20 @@
   <img src="https://github.com/shivamshende02/shivamshende02/blob/main/Shivam%20github%20Banner.png" alt="Shivam's GitHub Banner" width="100%">
 </p>
 
-"It is not the strongest of the species that survive, nor the most intelligent, but the one most responsive to change."  
-— Charles Darwin
+<div align="center">
+  <em>"It is not the strongest of the species that survive, nor the most intelligent, but the one most responsive to change."</em>
+  <br><br>
+  <b>— Charles Darwin</b>
+</div>
 
-<!--
-**shivamshende02/shivamshende02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠  Programming Languages
 
-Here are some ideas to get you started:
+## 🛠 AI & Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Data Analysis
+
+## 🛠 Tools & Technologies
+
+## 🛠 Data Management
+
+## 🛠 Cloud Platforms
