@@ -48,6 +48,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivamshende1109/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shivamshende02)
+[![ORCID](https://img.shields.io/badge/ORCID-%23A6CE39.svg?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/my-orcid?orcid=0009-0000-0300-8778)
+
 
 [tech_tools_anchor]: #bonjour--
 [learning_now_anchor]: #learning-now
