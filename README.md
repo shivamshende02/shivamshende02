@@ -13,8 +13,7 @@
 ## 🛠 Programming Languages
 <a name="learning-now"></a>
 
-[<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />][tech_tools_anchor]
-&nbsp;
+
 [<img src="https://img.shields.io/badge/C-282C34?logo=c&logoColor=A8B9CC" alt="C logo" title="C" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/C%2B%2B-282C34?logo=cplusplus&logoColor=00599C" alt="C++ logo" title="C++" height="25" />][tech_tools_anchor]
@@ -24,6 +23,9 @@
 [<img src="https://img.shields.io/badge/VB.NET-282C34?logo=dotnet&logoColor=512BD4" alt="VB.NET logo" title="VB.NET" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=3776AB" alt="Python logo" title="Python" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />][tech_tools_anchor]
+&nbsp;
 
 <a name="learning-next"></a>
 
