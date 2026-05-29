@@ -15,7 +15,7 @@
 
 [<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/Fastlane-282C34?logo=fastlane&logoColor=00F200" alt="Fastlane logo" title="Fastlane" height="25" />][tech_tools_anchor]
+
 
 <a name="learning-next"></a>
 
@@ -49,6 +49,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivamshende1109/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shivamshende02)
 [![ORCID](https://img.shields.io/badge/ORCID-%23A6CE39.svg?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/my-orcid?orcid=0009-0000-0300-8778)
+[![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/YOUR-USERNAME)
 
 
 [tech_tools_anchor]: #bonjour--
