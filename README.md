@@ -21,3 +21,10 @@
 ## 🛠 Data Management
 
 ## 🛠 Cloud Platforms
+## 🛠 Languages 🌐
+
+| Language      | Proficiency                                                               |
+| ------------- | ------------------------------------------------------------------------- |
+| English (duh) | B2 ([IELTS certified](https://www.efset.org/cert/5P5Pp1))                 |
+| German        | A2 ([Goethe Certificate](https://www.goethe.de/en/spr/kup/prf/prf/gb1.html)) |
+
