@@ -75,6 +75,16 @@
 [<img src="https://img.shields.io/badge/Hyperledger_Fabric-282C34?logo=hyperledger&logoColor=white" alt="Hyperledger logo" title="Hyperledger Fabric" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Smart_Contracts-282C34?logo=solidity&logoColor=white" alt="Smart Contracts" title="Smart Contracts" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Hyperledger_Besu-282C34?logo=hyperledger&logoColor=white" alt="Hyperledger Besu" title="Hyperledger Besu" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Hyperledger_Sawtooth-282C34?logo=hyperledger&logoColor=white" alt="Hyperledger Sawtooth" title="Hyperledger Sawtooth" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Hyperledger_Cactus-282C34?logo=hyperledger&logoColor=white" alt="Hyperledger Cactus" title="Hyperledger Cactus" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Polkadot-282C34?logo=polkadot&logoColor=E6007A" alt="Polkadot logo" title="Polkadot" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Cosmos_IBC-282C34?logo=cosmos&logoColor=white" alt="Cosmos IBC logo" title="Cosmos IBC" height="25" />][tech_tools_anchor]
 
 ## 🛠 Tools & Technologies
 [<img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />][tech_tools_anchor]
