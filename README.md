@@ -15,6 +15,16 @@
 
 [<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />][tech_tools_anchor]
 &nbsp;
+[<img src="https://img.shields.io/badge/C-282C34?logo=c&logoColor=A8B9CC" alt="C logo" title="C" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/C%2B%2B-282C34?logo=cplusplus&logoColor=00599C" alt="C++ logo" title="C++" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Java-282C34?logo=openjdk&logoColor=ED8B00" alt="Java logo" title="Java" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/VB.NET-282C34?logo=dotnet&logoColor=512BD4" alt="VB.NET logo" title="VB.NET" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=3776AB" alt="Python logo" title="Python" height="25" />][tech_tools_anchor]
+&nbsp;
 
 
 <a name="learning-next"></a>
@@ -27,6 +37,11 @@
 [<img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />][tech_tools_anchor]
 &nbsp;
 ## 🛠 Data Management
+[<img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=4479A1" alt="MySQL logo" title="MySQL" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=postgresql&logoColor=4169E1" alt="PostgreSQL logo" title="PostgreSQL" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/Microsoft_SQL-282C34?logo=microsoftsqlserver&logoColor=CC2927" alt="Microsoft SQL Server logo" title="Microsoft SQL" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/SSMS-282C34?logo=microsoftsqlserver&logoColor=CC2927" alt="SSMS logo" title="SSMS" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/Data_Warehouse-282C34?logo=amazonredshift&logoColor=8C4FFF" alt="Data Warehouse" title="Data Warehouse" height="25" />][tech_tools_anchor]
 
 ## 🛠 Cloud Platforms
 
@@ -35,6 +50,7 @@
 &nbsp;
 [<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />][tech_tools_anchor]
 &nbsp;
+
 
 ## 🛠 Languages 🌐
 
