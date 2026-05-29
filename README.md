@@ -140,8 +140,8 @@
 
 | Language      | Proficiency                                                               |
 | ------------- | ------------------------------------------------------------------------- |
-| English (duh) | B2 ([IELTS certified](https://www.efset.org/cert/5P5Pp1))                 |
-| German        | A2 ([Goethe Certificate](https://www.goethe.de/en/spr/kup/prf/prf/gb1.html)) |
+| English (duh) | B2 ([IELTS certified](https://github.com/shivamshende02/shivamshende02/blob/main/ShivamShende_IELTS_Final_Result.pdf))                 |
+| German        | A2 ([Goethe Certificate]()) |
 
 
 ## 🛠 Let's Connect
