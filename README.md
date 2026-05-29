@@ -141,7 +141,7 @@
 | Language      | Proficiency                                                               |
 | ------------- | ------------------------------------------------------------------------- |
 | English (duh) | B2 ([IELTS certified](https://github.com/shivamshende02/shivamshende02/blob/main/ShivamShende_IELTS_Final_Result.pdf))                 |
-| German        | A2 ([Goethe Certificate]()) |
+| German        | A2 ([Goethe Certificate](https://github.com/shivamshende02/shivamshende02/blob/main/A2.pdf)) |
 
 
 ## 🛠 Let's Connect
