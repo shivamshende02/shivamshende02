@@ -10,6 +10,12 @@
   <b>— Charles Darwin</b>
 </div>
 
+
+
+  ## 👋 Hi, I'm Shivam
+
+**Final-year Computer Engineering student** and incoming 2026 Master's candidate specializing in end-to-end AI/ML systems and decentralized architectures. Drive network interoperability by researching and architecting seamless communication frameworks across distinct distributed protocols. Engineer robust, scalable solutions through rigorous problem-solving, consistently translating complex technical constraints into secure, high-performance applications.
+
 ## 🛠 Programming Languages
 <a name="learning-now"></a>
 
