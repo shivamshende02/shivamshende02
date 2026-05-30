@@ -147,7 +147,8 @@
 &nbsp;
 [<img src="https://img.shields.io/badge/Technical_Documentation-282C34" alt="Technical Documentation" title="Technical Documentation" height="25" />][tech_tools_anchor]
 
-
+## 🛠 Github Stats 
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=shivamshende02&show_icons=true&theme=radical&hide_border=true&title_color=EE0000&icon_color=EE0000&text_color=c9d1d9&bg_color=0d1117&count_private=true&include_all_commits=true)
 ## 🛠 Languages 🌐
 
 | Language      | Proficiency                                                               |
