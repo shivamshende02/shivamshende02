@@ -149,6 +149,8 @@
 
 ## 🛠 Github Stats 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=shivamshende02&show_icons=true&theme=radical&hide_border=true&title_color=EE0000&icon_color=EE0000&text_color=c9d1d9&bg_color=0d1117&count_private=true&include_all_commits=true)
+
+
 ## 🛠 Languages 🌐
 
 | Language      | Proficiency                                                               |
@@ -164,6 +166,10 @@
 [![ORCID](https://img.shields.io/badge/ORCID-%23A6CE39.svg?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/my-orcid?orcid=0009-0000-0300-8778)
 [![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/YOUR-USERNAME)
 
+<div align="center">
+
+<sub>Show ❤️ by checking out my repos</sub>
+</div>
 
 [tech_tools_anchor]: #bonjour--
 [learning_now_anchor]: #learning-now
