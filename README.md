@@ -6,9 +6,10 @@
 
 <div align="center">
   <em>"It is not the strongest of the species that survive, nor the most intelligent, but the one most responsive to change."</em>
-  <br><br>
-  <b>— Charles Darwin</b>
 </div>
+<p align="right">
+  — <b>Charles Darwin</b>
+</p>
 
 
 
