@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/shivamshende02/shivamshende02/blob/main/Shivam%20github%20Banner.png" alt="Shivam's GitHub Banner" width="100%">
+  <img src="https://github.com/shivamshende02/shivamshende02/blob/main/banner.jpeg" alt="Shivam's GitHub Banner" width="100%">
 </p>
 
 <div align="center">
